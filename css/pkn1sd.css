@@ -1,0 +1,16 @@
+.judul{
+    color: black;
+    margin-top: 70px;
+    font-weight: 500;
+    font-size: 60px;
+}
+p{
+    color: gray;
+    text-align: left;
+}
+hr{
+    border-color: blue;
+}
+.btn{
+    text-align: left;
+}

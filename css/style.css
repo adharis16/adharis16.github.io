@@ -1,0 +1,143 @@
+/*gaya jumbotron*/
+.jumbotron{
+    background-image: url(../img/slider1.jpg);
+    background-size: cover;
+    height: 750px;
+    text-align: center;
+    margin-top: -120px;
+}
+.jumbotron .display-4{
+    color: white;
+    margin-top: 200px;
+    font-weight: 500;
+    font-size: 60px;
+}
+.jumbotron p{
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+.jumbotron hr{
+    border-color: white;
+}
+.jumbotron .btn{
+    background-color:#D70E38;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+/*gaya slider*/
+.carousel-item {
+  margin-top: 50px;
+}
+.carousel-item img{
+    
+}
+.carousel{
+  background-size: cover;
+}
+.carousel-caption .h3-responsive{
+    margin-bottom: ;
+    font-weight: ;
+    font-size: 30px;
+    color: white;
+}
+.carousel-item hr{
+    color: white;
+    
+}
+.carousel-item .btn{
+
+}
+.carousel-item p{
+    
+}
+.navbar{
+    background: rgba(58, 57, 57, 0.596);
+}
+.site-footer {
+    padding: 4em 0;
+    background: #343a40; }
+    @media (min-width: 768px) {
+      .site-footer {
+        padding: 8em 0; } }
+    .site-footer .border-top {
+      border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
+    .site-footer p {
+      color: #fff; }
+    .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
+      color: #fff; }
+    .site-footer a {
+      color: rgba(255, 255, 255, 0.8); }
+      .site-footer a:hover {
+        color: white; }
+    .site-footer ul li {
+      margin-bottom: 10px; }
+    .site-footer .footer-heading {
+      font-size: 18px;
+      color: #fd4d40; }
+
+.site-section {
+  padding: 2.5em 0; }
+  @media (min-width: 768px) {
+    .site-section {
+      padding: 5em 0; } }
+  .site-section.site-section-sm {
+    padding: 4em 0; }
+
+.package {
+  color: #777;
+  padding: 40px;
+  border-radius: 7px; }
+  .package h3 {
+    font-size: 18px;
+    margin-bottom: 30px; }
+  .package .img-wrap {
+    display: block;
+    margin: 0 auto 30px auto;
+    width: 80px; }
+    .package .img-wrap img {
+      width: 80px; 
+}
+
+.btn {
+    border-radius: 30px;
+    font-size: .8rem;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    padding: 10px 20px;
+    text-decoration: none; }
+    .btn:active, .btn:focus {
+      outline: none;
+      -webkit-box-shadow: none;
+      box-shadow: none; }
+    .btn.btn-teal {
+      background: #16c3b0; }
+    .btn.btn-danger {
+      background: #fd4d40; }
+    .btn.btn-outline-white {
+      border-color: #fff;
+      background: transparent;
+      color: #fff; }
+      .btn.btn-outline-white:hover {
+        background: #fff;
+        border-color: #fff;
+        color: #000; 
+}
+
+.btn-custom-1 {
+    border-radius: 30px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.logo{
+  margin-left: auto;
+}
+.merk{
+  margin-left: 60px;
+}
+.navbar-brand{
+  margin-left: 50px;
+}

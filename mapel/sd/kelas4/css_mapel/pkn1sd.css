@@ -1,0 +1,56 @@
+.judul{
+    color: black;
+    margin-top: 70px;
+    font-weight: 500;
+    font-size: 40px;
+}
+p{
+    color: black;
+    text-align: ;
+}
+hr{
+    border-color: black;
+}
+.btn{
+    text-align: left;
+}
+.navbar{
+    background: rgba(58, 57, 57, 0.596);
+}
+.btn-custom-1 {
+    border-radius: 30px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.logo{
+  margin-left: auto;
+}
+.merk{
+  margin-left: 60px;
+}
+.site-footer {
+    padding: 4em 0;
+    background: #343a40; }
+    @media (min-width: 768px) {
+      .site-footer {
+        padding: 8em 0; } }
+    .site-footer .border-top {
+      border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
+    .site-footer p {
+      color: #fff; }
+    .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
+      color: #fff; }
+    .site-footer a {
+      color: rgba(255, 255, 255, 0.8); }
+      .site-footer a:hover {
+        color: white; }
+    .site-footer ul li {
+      margin-bottom: 10px; }
+    .site-footer .footer-heading {
+      font-size: 18px;
+      color: #fd4d40; 
+    }
+    .navbar-brand{
+      margin-left: 50px;
+    }
+    

@@ -1,0 +1,21 @@
+.jumbotron{
+    background-image: url(../img/asd3.png);
+    background-size: 900px;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.jumbotron .display-4{
+    margin-left: 50px;
+    margin-top: 200px;
+}
+.jumbotron p{
+    margin-left: 50px;
+    color: black;
+}
+.jumbotron .btn{
+    margin-left: 50px;
+    border-radius: 25px;
+}
+.jumbotron h1{
+    margin-top: -100px;
+}
